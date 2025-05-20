@@ -1,5 +1,5 @@
 C  = "C is fun"
-python = "Pythhon is cool"
+python = "Python is cool"
 JS = "JavaScript is amazing"
 console.log(C)
 console.log(python)
