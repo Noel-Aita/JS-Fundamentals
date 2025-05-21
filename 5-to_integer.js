@@ -32,5 +32,5 @@ else if (isNaN(Number(args[0]))) {
 // Check if it is a number
 else  
 {
-  console.log("My number: ",Number(args[0]))
+  console.log("My number:",Number(args[0]))
 }
