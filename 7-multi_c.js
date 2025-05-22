@@ -9,6 +9,6 @@ if (isNaN(appearances)) {
 else  // Check if it is a number
 {
   //let text =  Number(args)
-for (let i = 0; i < appearances; i++)
+for (let i = 0; i <= appearances; i++)
 console.log("C is fun")
 }
